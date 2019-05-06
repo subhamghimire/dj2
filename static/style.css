@@ -4,4 +4,13 @@
 }
 .item{
   text-decoration: none;
+  text-align: center;
+}
+body{
+  background-color: #FFF0F1;
+}
+header{
+  text-align: center;
+  color: #FF4266;
+  font-size: 50px;
 }
